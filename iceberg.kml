@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>iceberg, height</name>
+        <Folder>
+            <name>iceberg </name>
+            <Placemark id="2012 Jan 15 13:40:16.40 UTC">
+                <name>H 110 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
+                <magnitude>110</magnitude>
+                <Point>
+                    <coordinates>-56.072,-60.975,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 19 06:48:48.75 UTC">
+                <name>H 120 - 2012 Jan 19, OFF W. COAST OF S. ISLAND, N.Z.</name>
+                <magnitude>120</magnitude>
+                <Point>
+                    <coordinates>165.778,-46.686,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 28 17:42:51.72 UTC">
+                <name>H 130 - 2012 Jan 28, KERMADEC ISLANDS, NEW ZEALAND</name>
+                <magnitude>130</magnitude>
+                <Point>
+                    <coordinates>-177.386,-29.43,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 9 18:52:48.39 UTC">
+                <name>H 135 - 2012 Feb 9, MACQUARIE ISLAND REGION</name>
+                <magnitude>135</magnitude>
+                <Point>
+                    <coordinates>157.837,-58.312,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 10 01:47:34.19 UTC">
+                <name>H 125 - 2012 Feb 10, FIJI REGION</name>
+                <magnitude>125</magnitude>
+                <Point>
+                    <coordinates>-178.549,-17.968,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Feb 13 10:55:09.44 UTC">
+                <name>H 115 - 2012 Feb 13, COSTA RICA</name>
+                <magnitude>115</magnitude>
+                <Point>
+                    <coordinates>-84.121,9.183,0</coordinates>
+                </Point>
+            </Placemark>
+            </Folder>
+    </Document>
+</kml>
