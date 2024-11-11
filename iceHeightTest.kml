@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>iceberg, height</name>
+        <Folder>
+            <name>iceberg </name>
+            <Placemark id="2012 Jan 15 13:40:16.40 UTC">
+                <name>H 110 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
+                <magnitude>110</magnitude>
+                <Point>
+                    <coordinates>-56.072,-60.975,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2012 Jan 15 13:40:16.41 UTC">
+                <name>H 910 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
+                <magnitude>910</magnitude>
+                <Point>
+                    <coordinates>-55.072,-61.975,0</coordinates>
+                </Point>
+            </Placemark>
+            </Folder>
+    </Document>
+</kml>
