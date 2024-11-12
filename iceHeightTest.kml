@@ -15,56 +15,56 @@
                 <name>H 210 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>210</magnitude>
                 <Point>
-                    <coordinates>-57.072,-60.975,0</coordinates>
+                    <coordinates>-56.073,-60.974,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.42 UTC">
                 <name>H 310 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>310</magnitude>
                 <Point>
-                    <coordinates>-56.072,-61.975,0</coordinates>
+                    <coordinates>-56.074,-60.973,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.43 UTC">
                 <name>H 410 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>410</magnitude>
                 <Point>
-                    <coordinates>-55.072,-59.975,0</coordinates>
+                    <coordinates>-56.075,-60.972,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.44 UTC">
                 <name>H 510 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>510</magnitude>
                 <Point>
-                    <coordinates>-57.072,-60.975,0</coordinates>
+                    <coordinates>-56.069,-60.975,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.45 UTC">
                 <name>H 610 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>610</magnitude>
                 <Point>
-                    <coordinates>-57.072,-61.975,0</coordinates>
+                    <coordinates>-56.070,-60.976,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.46 UTC">
                 <name>H 710 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>710</magnitude>
                 <Point>
-                    <coordinates>-55.072,-61.975,0</coordinates>
+                    <coordinates>-56.071,-60.977,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.47 UTC">
                 <name>H 810 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>810</magnitude>
                 <Point>
-                    <coordinates>-54.072,-60.975,0</coordinates>
+                    <coordinates>-56.068,-60.975,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="2012 Jan 15 13:40:16.48 UTC">
                 <name>H 910 - 2012 Jan 15, SOUTH SHETLAND ISLANDS</name>
                 <magnitude>910</magnitude>
                 <Point>
-                    <coordinates>-55.072,-61.975,0</coordinates>
+                    <coordinates>-56.067,-60.970,0</coordinates>
                 </Point>
             </Placemark>
             </Folder>
